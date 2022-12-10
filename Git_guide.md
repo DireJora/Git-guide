@@ -21,7 +21,11 @@ For an orgered list need a numbers at the begining of an items
 2. Item 2
 
 ## Images
+!(Name of image)[Link]
 
+An example:
+
+![Git logo](https://fuzeservers.ru/wp-content/uploads/3/0/c/30c29ce4cc08523ecc6e1f205bc207d0.jpeg)
 ## Links
 
 ## Tabels

@@ -37,4 +37,12 @@ An example:
 
 ## Tabels
 
+Title and alignment settings (second line) are mandatory. Alignment is specified with a colon. Columns are set by vertical sticks (|)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## Quotes

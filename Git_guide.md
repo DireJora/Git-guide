@@ -46,3 +46,9 @@ Title and alignment settings (second line) are mandatory. Alignment is specified
 | zebra stripes | are neat      |    $1 |
 
 ## Quotes
+
+Quotes create by (>)
+An example:
+>**Success is a lousy teacher. It seduces smart people into thinking they can’t** lose.
+>
+>*Bill Gates*

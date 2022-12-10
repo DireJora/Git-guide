@@ -2,11 +2,12 @@
 
 ## Text selection
 
-* For *Italyc* selection need a (*) frame or (_) _frame_
-* For **bold** selection need a (**) frame or (__) __frame__
-* For ***bold italics*** need a (***) frame or (*__) *__frame__*
+* For *Italyc* selection need a (*) frame or (_) frame
+* For **bold** selection need a (**) frame or (__) frame
+* For ***bold italics*** need a (***) frame or (*__) frame
 
-Text may be *Italyc and bold __simultaneously__*
+Text may be *Italyc and bold **simultaneously***
+
 ## Lists
 
 For unordered list need a (*) at the beginning of an item

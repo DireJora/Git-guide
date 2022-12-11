@@ -49,11 +49,6 @@ Title and alignment settings (second line) are mandatory. Alignment is specified
 
 Quotes create by (>)
 An example:
->**Success is a lousy teacher. It seduces smart people into thinking they can’t** lose.
+>**Success is a lousy teacher. It seduces smart people into thinking they can’t lose.**
 >
-<<<<<<< Updated upstream
 >*Bill Gates*
-=======
->*Bill Gates*
-
->>>>>>> Stashed changes

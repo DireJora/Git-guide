@@ -49,11 +49,16 @@ Title and alignment settings (second line) are mandatory. Alignment is specified
 
 Quotes create by (>)
 An example:
->**Success is a lousy teacher. It seduces smart people into thinking they can’t** lose.
+>**Success is a lousy teacher. It seduces smart people into thinking they can’t lose.**
 >
-<<<<<<< Updated upstream
->*Bill Gates*
-=======
 >*Bill Gates*
 
->>>>>>> Stashed changes
+# Work with remote repositories
+
+## **Algorithm for work with remote repositories:**
+
+1. Make a fork of repositoty on a Github
+2. Clone it by command **git clone** on your computer
+3. Create a new branch with proposed changes
+4. Push it out by command **git push** to your Github account
+5. Get a **pull request** on a Github
